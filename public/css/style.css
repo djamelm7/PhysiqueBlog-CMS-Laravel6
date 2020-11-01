@@ -1,0 +1,118 @@
+html{
+  overflow-x: hidden;
+}
+.abs{
+    position: absolute;
+    margin-bottom:30px;
+  }
+   .btn-circle { 
+            width: 30px; 
+            height: 30px; 
+            padding: 6px 0px; 
+            border-radius: 15px; 
+            font-size: 12px; 
+            text-align: center; 
+            font-weight: bold;
+        }
+        #navbar-font{
+          font-family: 'Grenze Gotisch', cursive;
+          font-weight: bold;
+          font-size: 28px ;
+        }
+       
+        #home {
+          background-image: url("../images/physical.jpg");
+          width:100%;
+          height: 500px;
+        }
+        #home .opacity{
+          position: absolute;
+          width:100%;
+          min-height:500px;
+          background-color: rgba(87, 75, 144,0.5);
+        }
+        .k1{
+          margin-top: 200px;
+          font-family: 'Aladin', cursive;
+        }
+        .bg-mix{
+          background: linear-gradient(120deg, #808080, #3fada8); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+        }
+        .nav-link{
+          font-weight: 900;
+        }
+        .carousel-item{
+          height:350px;
+          position: relative;
+         width:100%;
+      }
+        .carousel-image-1{
+          background-image: url('../images/bubble.jpg');
+          background-size: cover;
+          background-position: 25%;
+        }
+       /* .center{
+             margin-left: 90px;
+             margin-top:45px;
+        }*/
+            .fta{
+              font-weight: 900;
+              font-size:24px;
+              color:black;
+            }
+            .fta:hover{
+text-decoration: none;
+color:darkslategrey;
+            }
+#showcasea{
+  height: 350px;
+  width:100%;
+}
+#writer{
+  height: 210px;
+  width: 100%;
+  background:  linear-gradient(120deg, #808080, #3fada8); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  margin-top:100px;
+}
+ 
+.about-img{
+  border: 5px; 
+}
+
+/*.fa {
+  padding: 15px;
+  padding-left: 5px;
+  padding-right: 5px ;
+  font-size: 20px;
+  width: 42px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+  margin-top: 150px;
+}
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}*/
+.single{
+  margin-top:0px;
+}
+#comment{
+  margin:50px;
+}
+span {
+     transition: all 0.7s ease;
+}
+span.fade {
+    color: rgb(42, 146, 11);
+}
+.re{
+  border-radius: 2%;
+}
+.ma{
+  margin-top:135px;
+}
